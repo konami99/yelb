@@ -1,5 +1,5 @@
 FROM postgres:10.0
-MAINTAINER massimo@it20.info
+LABEL maintainer='konami99'
 
 WORKDIR /
 

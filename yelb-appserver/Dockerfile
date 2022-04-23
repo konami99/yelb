@@ -1,5 +1,5 @@
 FROM bitnami/ruby:2.4.2-r1
-MAINTAINER massimo@it20.info
+LABEL maintainer='konami99'
 
 ################## BEGIN INSTALLATION ######################
 
